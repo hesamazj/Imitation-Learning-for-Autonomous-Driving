@@ -1,8 +1,3 @@
-# Imitation-Learning-for-Autonomous-Driving
-Understood. Let's rephrase the README to present it as a project rather than a homework assignment, while retaining all the essential technical details.
-
-Here's a revised README.md:
-
 # Robot Learning: Autonomous Driving with Imitation Learning
 
 This repository showcases a project focused on implementing and exploring various imitation learning models for autonomous driving, including intent inference and shared autonomy. The project utilizes a partially observable Markov decision process (POMDP) framework and the CARLO (CARLA - Low Budget) 2D driving simulator for experiments.
